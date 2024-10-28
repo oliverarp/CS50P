@@ -1,0 +1,322 @@
+[
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "ff85c452-def5-4e5c-adde-ff3798766812",
+        "title": "Harmonices Mundi",
+        "authors": [
+            "Johannes Kepler"
+        ],
+        "publication_date": "1619-01-01",
+        "keywords": [
+            "harmonics",
+            "astronomy",
+            "mathematics"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "0eaf43d0-75b5-433d-9cc9-45f4211a3d41",
+        "title": "\u00c9l\u00e9ments de math\u00e9matique",
+        "authors": [
+            "\u00c9variste Galois"
+        ],
+        "publication_date": "1830-01-01",
+        "keywords": [
+            "group theory",
+            "mathematics",
+            "algebra"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "ea161ba2-8f5c-4f32-9818-f91cb1fa3ea3",
+        "title": "De revolutionibus orbium coelestium",
+        "authors": [
+            "Nicolaus Copernicus"
+        ],
+        "publication_date": "1543-01-01",
+        "keywords": [
+            "cosmology",
+            "astronomy",
+            "heliocentrism"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "1517b248-7f59-4984-8b75-5a36593f346b",
+        "title": "AI in the Modern World",
+        "authors": [
+            "Frank Harris"
+        ],
+        "publication_date": "2021-08-22",
+        "isbn": "9781757845175",
+        "keywords": [
+            "science",
+            "artificial intelligence",
+            "technology",
+            "fake",
+            "future"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "55cecbc4-249a-480c-b264-5bceac190056",
+        "title": "Mastering Python Programming",
+        "authors": [
+            "Rachel Adams",
+            "Steve Young"
+        ],
+        "publication_date": "2023-06-01",
+        "isbn": "9780295848365",
+        "keywords": [
+            "software development",
+            "fake",
+            "programming",
+            "Python"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "4bfdc150-5200-4d32-9fab-02288059815e",
+        "title": "Gardening for Beginners",
+        "authors": [
+            "Paula Roberts",
+            "Quincy Brown",
+            "John Doe"
+        ],
+        "publication_date": "2016-03-08",
+        "isbn": "9780514186896",
+        "keywords": [
+            "plants",
+            "hobbies",
+            "gardening",
+            "fake",
+            "nature"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "9b63e7af-81c4-478f-952d-2baacdd8ba09",
+        "title": "Mindfulness and Meditation",
+        "authors": [
+            "Tina Evans",
+            "Uma Nelson"
+        ],
+        "publication_date": "2020-10-25",
+        "isbn": "1514235684",
+        "keywords": [
+            "meditation",
+            "well-being",
+            "mental health",
+            "fake",
+            "mindfulness"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "7e1127b8-e6aa-4466-a2bb-97eb68db0eff",
+        "title": "Philosophi\u00e6 Naturalis Principia Mathematica",
+        "authors": [
+            "Isaac Newton"
+        ],
+        "publication_date": "1687-01-01",
+        "keywords": [
+            "physics",
+            "mathematics",
+            "classical mechanics"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "5dd73a9b-4728-4bd1-a7b0-83097c4ede4c",
+        "title": "The Digital Economy",
+        "authors": [
+            "Oliver Martin"
+        ],
+        "publication_date": "2022-09-12",
+        "isbn": "9780799510829",
+        "keywords": [
+            "business",
+            "economics",
+            "technology",
+            "fake",
+            "innovation"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "74615d40-330b-4b8c-a32b-987509ea8927",
+        "title": "Mysteries of the Quantum Realm",
+        "authors": [
+            "Alice Johnson",
+            "Bob Smith"
+        ],
+        "publication_date": "2023-04-15",
+        "isbn": "9780043589632",
+        "keywords": [
+            "quantum mechanics",
+            "fake",
+            "science",
+            "physics"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "c93ec88a-33d2-4c13-9793-74b1645dc5f6",
+        "title": "Journey Through the Stars",
+        "authors": [
+            "Gina Wright",
+            "Ian Black",
+            "Henry Adams"
+        ],
+        "publication_date": "2020-01-10",
+        "isbn": "9781229568267",
+        "keywords": [
+            "science fiction",
+            "fake",
+            "space",
+            "exploration"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "6695e2b9-1d8f-4943-a2d8-40b1e226af74",
+        "title": "The Lost Kingdom",
+        "authors": [
+            "Catherine Bell",
+            "David White",
+            "Emily Green"
+        ],
+        "publication_date": "2019-11-30",
+        "isbn": "9780760098271",
+        "keywords": [
+            "kingdom",
+            "fake",
+            "fantasy",
+            "adventure",
+            "magic"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "087b2e24-704f-49b9-a128-77f6e5600ac0",
+        "title": "\u00dcber die Hypothesen, welche der Geometrie zu Grunde liegen",
+        "authors": [
+            "Bernhard Riemann"
+        ],
+        "publication_date": "1868-01-01",
+        "keywords": [
+            "differential geometry",
+            "mathematics",
+            "geometry"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "de897810-692d-4ef0-8fd7-426da3b2318d",
+        "title": "Novum Organum",
+        "authors": [
+            "Francis Bacon"
+        ],
+        "publication_date": "1620-01-01",
+        "keywords": [
+            "scientific method",
+            "philosophy",
+            "logic"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "229dd36f-49a9-4fa7-91b4-3b868c16ac3f",
+        "title": "M\u00e9canique Analytique",
+        "authors": [
+            "Joseph-Louis Lagrange"
+        ],
+        "publication_date": "1788-01-01",
+        "keywords": [
+            "analytical mechanics",
+            "physics",
+            "mathematics"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "aaf437ec-40a7-4f95-b11d-70b541167310",
+        "title": "Ancient Civilizations",
+        "authors": [
+            "fake",
+            "Laura Clark",
+            "Michael Davis",
+            "Nancy Edwards",
+            "Gina Wright"
+        ],
+        "publication_date": "2017-12-20",
+        "isbn": "9781175084262",
+        "keywords": [
+            "archaeology",
+            "fake",
+            "history",
+            "civilizations"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "daa6e68b-c969-462b-ae30-27f51c97c49c",
+        "title": "Trait\u00e9 de dynamique",
+        "authors": [
+            "Jean le Rond d'Alembert"
+        ],
+        "publication_date": "1743-01-01",
+        "keywords": [
+            "dynamics",
+            "physics",
+            "mathematics"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "cdf182cf-b10a-4234-b209-458ee0045b41",
+        "title": "The Mathematical Principles of Natural Philosophy",
+        "authors": [
+            "Leonhard Euler"
+        ],
+        "publication_date": "1736-01-01",
+        "keywords": [
+            "astronomy",
+            "physics",
+            "mathematics"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "3063619e-495c-4082-ab8c-8eec88d63cc9",
+        "title": "Discours de la m\u00e9thode",
+        "authors": [
+            "Ren\u00e9 Descartes"
+        ],
+        "publication_date": "1637-01-01",
+        "keywords": [
+            "methodology",
+            "philosophy",
+            "rationalism"
+        ]
+    },
+    {
+        "__type__": "mybooks.Book",
+        "uuid": "23271944-9e47-45d1-a592-9e74b1f562f0",
+        "title": "The Art of Cooking",
+        "authors": [
+            "Jane Miller",
+            "Karen Lee",
+            "John Doe"
+        ],
+        "publication_date": "2018-05-05",
+        "keywords": [
+            "culinary arts",
+            "cooking",
+            "fake",
+            "food",
+            "recipes"
+        ]
+    }
+]
